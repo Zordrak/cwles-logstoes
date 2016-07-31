@@ -1,0 +1,14 @@
+{
+  "name": "cwles-logstoes",
+  "version": "1.0.0",
+  "description": "Parameterised duplication of default AWS Lambda function for shipping CloudWatch Logs to Elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/Zordrak/cwles-logstoes",
+  "author": "Zordrak <github@jdmp.org.uk>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
